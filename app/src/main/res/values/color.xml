@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gesture_line_color" type="color">#86FFC7</item>
+    <item name="pinkish_color" type="color">#E8366C</item>
+    <item name="green_font_color" type="color">#6A991F</item>
+    <item name="green_vivid_color" type="color">#D7E836</item>
+    <item name="orange_color" type="color">#FFB048</item>
+    <item name="purpleish_color" type="color">#593BFF</item>
+    <item name="shadow_start_grey_color" type="color">#78838383</item>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="splash_phrase_size">25sp</dimen>
+    <dimen name="splash_small_size">20sp</dimen>
+    <dimen name="micro_margin">3dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="bottom_splash_margin">30dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_double_horizontal_margin">32dp</dimen>
+    <dimen name="activity_double_vertical_margin">32dp</dimen>
+    <dimen name="activity_extra_horizontal_margin">70dp</dimen>
+    <dimen name="activity_extra_vertical_margin">64dp</dimen>
+    <dimen name="top_dashboard_text_size">40sp</dimen>
+    <dimen name="top_dashboard_small_text_size">20sp</dimen>
+    <dimen name="top_dashboard_big_text_size">70sp</dimen>
+    <dimen name="score_desc_text_size">30sp</dimen>
+    <dimen name="score_text_size">20sp</dimen>
+
+    <dimen name="menu_huge_letters">150sp</dimen>
+    <dimen name="menu_sentences_size">60sp</dimen>
+    <dimen name="menu_big_letters">80sp</dimen>
+    <dimen name="menu_small_letters">42sp</dimen>
+</resources>

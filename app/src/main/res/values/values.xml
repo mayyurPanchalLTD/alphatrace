@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="gesture_fade_out_time">800</integer>
+    <item name="letters_id" type="id">1</item>
+    <item name="balloons_id" type="id">balloons</item>
+</resources>
